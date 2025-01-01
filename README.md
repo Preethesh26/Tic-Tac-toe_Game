@@ -6,7 +6,7 @@ This is a web-based Tic Tac Toe game for two players. Players take turns to plac
 ---
 
 ## Live Demo
-Check out the live demo of the game here: [Live Demo](https://preethesh26.github.io/Tic-Tac-Toe-Game/)
+Check out the live demo of the game here: [Live Demo](https://preethesh26.github.io/Tic-Tac-toe_Game/)
 
 ---
 
@@ -29,7 +29,7 @@ Check out the live demo of the game here: [Live Demo](https://preethesh26.github
 ---
 
 ## How to Use
-1. Open the `index.html` file in any modern web browser, or access the [live demo](https://preethesh26.github.io/Tic-Tac-Toe-Game/).
+1. Open the `index.html` file in any modern web browser, or access the [live demo](https://preethesh26.github.io/Tic-Tac-Toe-Game/)(https://preethesh26.github.io/Tic-Tac-toe_Game/).
 2. **Gameplay**:
    - Click on a grid cell to place your mark ("X" or "O").
    - The game announces the winner or declares a draw when applicable.
